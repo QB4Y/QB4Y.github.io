@@ -21,10 +21,10 @@ platforms:
     link: ./assets/files/vaibhav_vikas_resume.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
+    link: https://github.com/qb4y
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://www.linkedin.com/in/paulo-david-huaman-calder%C3%B3n-41336622b/
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
