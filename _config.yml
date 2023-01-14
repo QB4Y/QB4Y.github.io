@@ -16,7 +16,7 @@ plugins:
   - jekyll-sitemap
 
 platforms:
-  - name: Résumé
+  - name: Curriculum Vitae
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./assents/files/CV_PauloHuaman.pdf
   - name: GitHub
@@ -25,12 +25,9 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/paulo-david-huaman-calder%C3%B3n-41336622b/
-  - name: Projects
+  - name: Proyectos
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
-  - name: Certifications
+  - name: Certificaciones
     icon: <i class="fa-solid fa-award"></i>
     link: ./certifications
-  - name: Open Source
-    icon: <i class="fa-solid fa-ghost"></i>
-    link: ./open-source

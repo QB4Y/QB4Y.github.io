@@ -58,7 +58,7 @@ Enero 2021 - actualmente</p>
 
 ## Projects:
 
-[... See all projects](./projects)
+[... Ver todos los proyectos](./projects)
 
 ---
 
@@ -77,19 +77,5 @@ Enero 2021 - actualmente</p>
 </div>
 
 [... Ver todos los certificados](./certifications)
-
----
-
-## Publications:
-
-<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0147957122000728">Global epidemiology of CTX-M-type β-lactam resistance in human and animal</a></h3>
-<p style="margin:0;"><b>Chanchal Rana, ..., Vaibhav Vikas, <i>et al</i>.</b><br>
-Comparative Immunology, Microbiology, and Infectious Diseases.<br>
-Volume 86, July 2022, 101815.<br>
-Doi: <a href="https://doi.org/10.1016/j.cimid.2022.101815">https://doi.org/10.1016/j.cimid.2022.101815</a></p>
-<ul style="margin-left: -1.4em;">
-  <li>Worked on fetching 2100+ nucleotides sequence from NCBI by its accession number using Python, Selenium and Beautifulsoup.</li>
-  <li>Worked on various utilities such as generating the heat map using Python and d3.js.</li>
-</ul>
 
 ---
