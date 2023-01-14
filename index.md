@@ -26,7 +26,7 @@ Abril 2020 - Actualidad\
 <p style="margin-bottom:4px;">&#x2022; DB2 &#x2022; Oracle &#x2022; MySQL</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Sistemas Operativos:</h4>
-<p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat)</p>
+<p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat, Kali Linux, Parrot, CentOS)</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Otros:</h4>
 <p style="margin-bottom:20px;">&#x2022; Git &#x2022; GitLab &#x2022; Github &#x2022; Docker</p>
