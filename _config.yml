@@ -1,5 +1,5 @@
 title: Paulo Huaman (QBay)
-logo: /assets/img/logo.webp
+logo: /assents/img/logo.webp
 email: pdhc2212@gmail.com
 description: Systems Engineer | Python Developer | Cybersecurity.
 favicon: true
@@ -18,7 +18,7 @@ plugins:
 platforms:
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/files/CV_PauloHuaman.pdf
+    link: ./assents/files/CV_PauloHuaman.pdf
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/qb4y
