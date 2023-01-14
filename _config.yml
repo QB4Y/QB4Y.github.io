@@ -18,6 +18,8 @@ plugins:
   - jekyll-sitemap
 
 platforms:
+  - name: (+51) 923912217
+    icon: <i class="fa-solid fa-mobile-retro"></i>
   - name: Curriculum Vitae
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./assents/files/CV_PauloHuaman.pdf
