@@ -22,5 +22,11 @@ permalink: /certifications
 <div class="card">
   <h3>Curso de programación en Introducción a la ciberseguridad</h3>
   <p><b>Udemy</b>, Enero 2023</p>
-  <img src="assents\img\CHackingACH.jpg" alt="CertificadoPython">
+  <img src="assents\img\CHackingACH.jpg" alt="Int. Ciberseguridad">
+</div>
+
+<div class="card">
+  <h3>NSE 1 Network Security Associate</h3>
+  <p><b>FORTINET</b>, Febrero 2023</p>
+  <img src="assents\img\NSE_1_Certification_page-0001.jpg" alt="NSE 1">
 </div>
