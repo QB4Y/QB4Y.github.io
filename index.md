@@ -54,6 +54,17 @@ Enero 2021 - actualmente</p>
   <li>Actualizaciones de software y hardware</li>
 </ul>
 
+<h3 style="margin-bottom:2px;">Programador Backend | Tiendada</h3>
+<p style="margin:0;"><b>Desarrollador Backend en Python</b><br>
+Enero 2023 - Julio 2023</p>
+<ul style="margin-left: -1.4em;">
+  <li>Desarrollo de features</li>
+  <li>Resolucion de errores (bugs)</li>
+  <li>Diseño de bases de datos (PostgreSQL)</li>
+  <li>Docker y microservicios</li>
+  <li>Clean Architecture and code</li>
+</ul>
+
 ---
 
 ## Projects:
